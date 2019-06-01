@@ -1,0 +1,1 @@
+var clickevent=document.getElementById("yinyue");clickevent.onclick=function(){var e=document.getElementById("yinyue").value;"<"===e&&($("div[class=music]").animate({left:"-258px"}),document.getElementById("yinyue").value=">"),">"===e&&($("div[class=music]").animate({left:"0px"}),document.getElementById("yinyue").value="<")}
