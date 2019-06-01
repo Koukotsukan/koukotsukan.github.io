@@ -70,6 +70,42 @@ z-index:1;}
 	background-attachment: fixed;
 	overflow: hidden;
 }
+.warn2 {
+	position: relative;
+	width:210px;
+	margin-top: 0px;
+	top:-20px;
+	margin-left: 0px;
+	border-radius: 25px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+	overflow: hidden;
+	z-index: 0;
+	padding: 10px;
+	color:white;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.warn2::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	-webkit-filter: blur(20px);
+	-moz-filter: blur(20px);
+	-ms-filter: blur(20px);
+	-o-filter: blur(20px);
+	filter: blur(20px);
+	z-index: -1;
+	margin: -30px;
+	background-image: url(https://cdn.jsdelivr.net/gh/Koukotsukan/koukotsukan.github.io/bgpic.jpg);
+	background-position: center top;
+	background-size: cover;
+	background-attachment: fixed;
+	overflow: hidden;
+}
 
 .container {
 	width: 100%;
