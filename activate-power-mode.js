@@ -312,6 +312,6 @@ return /******/ (function(modules) { // webpackBootstrap
 });
 ;
     console.log("%c    安全警告","color:red;font-size:5em;font-weight:bold;");
-	console.log("          此功能为开发者准备，非开发者勿动，小心浏览器坏掉~")
-    console.log("%c    ", "padding:50px 300px;line-height:120px;background:url('https://blog.niuzhaohang.top/wordpress/wp-content/themes/wordstar/picofme.png') no-repeat;");
+	console.log("求无BUG啊啊啊，对了Feed那里的确有BUG但是我不在乎，吼吼吼")
+	console.log("          此功能为开发者准备~希望各位黑界大佬饶小人的烂主机一命。")
 	console.log("%c恭喜你解锁彩蛋:前端认证"," text-shadow: 0 1px 0 #ccc,0 2px 0 #c9c9c9,0 3px 0 #bbb,0 4px 0 #b9b9b9,0 5px 0 #aaa,0 6px 1px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.3),0 3px 5px rgba(0,0,0,.2),0 5px 10px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.2),0 20px 20px rgba(0,0,0,.15);font-size:3em")
